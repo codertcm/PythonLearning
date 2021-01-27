@@ -66,7 +66,3 @@ HelloWorld from Parent
 Child bar fuction
 I'm the parent.
 ````
-
-
-
-![img.png](img.png)
