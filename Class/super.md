@@ -66,3 +66,10 @@ HelloWorld from Parent
 Child bar fuction
 I'm the parent.
 ````
+
+> Method Resolution Order (MRO)
+Method Resolution Order (MRO) is the order in which methods should be inherited in the presence of multiple inheritance. You can view the MRO by using the __mro__ attribute.
+````
+className.__mro__
+````
+
